@@ -1,7 +1,5 @@
 body {
-  background-color: #111!important;
-  color: #aaa!important;
-  margin-left: auto!important;
-  margin-right: auto!important;
-  display: block;
+  background-color: #111;
+  color: #aaa;
+  width: 100%
 }

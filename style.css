@@ -40,7 +40,7 @@ img {
     font-size: 14px;
     grid-template-columns: 50px auto;
     line-height: 18px;
-    max-width: 550px;
+    max-width: 95%;
     min-height: 64px;
     overflow: hidden;
     width: auto;

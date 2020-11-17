@@ -75,6 +75,7 @@ img {
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
+    min-width: 50px;
 }
 .wrap[data-v-e529d5e4] {
     color: rgb(220, 230, 240);

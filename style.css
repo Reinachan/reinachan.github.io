@@ -16,6 +16,10 @@ header {
   margin-bottom: 50px;
   border-bottom: 20px solid #0e1216;
   background-image: linear-gradient(to right, #241716 10%, #34221F 50%, #241716 90%);
+  width: 100%;
+}
+header h2, header p {
+  margin: 0 2%;
 }
 
 img {
